@@ -1,9 +1,9 @@
 import './App.css';
-import {SunEditor} from "./components/sun-editor/SunEditor";
+import {RichTextEditor} from "./components/sun-editor/RichTextEditor";
 
 function App() {
   return (
-      <SunEditor />
+      <RichTextEditor />
   );
 }
 
